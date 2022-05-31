@@ -37,7 +37,7 @@ class MedidaOmbro:
 class PadraoMedidaBR:
     def __init__(self):
         self.limites = {
-            'PP36': (36, Medida(79, 61, 85)),
+            'PP36': (36, Medida(83, 65, 93)),
             'P38': (38, Medida(82, 64, 88)),
             'P40': (40, Medida(86, 68, 92)),
             'M42': (42, Medida(90, 72, 96)),
